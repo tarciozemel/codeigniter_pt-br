@@ -6,8 +6,9 @@ CodeIgniter - Translation Project PT-BR
 Projeto de tradução do CodeIgniter para Português- Brasil.
 
 
------------------------------------------------------------------------
+
 Como usar o GIT para o GitHub:
+-----------------------------------------
 
 Na linha de comando, faça os passos a seguir:
 
@@ -37,6 +38,6 @@ $ git add .
 10. Levar as suas modificações ao controle de versão 
 $ git push origin master 
   
-------------------------------------------------------------------------
+=====================================
 Atenção: é uma boa prática fazer o MERGE antes de levar as suas alterações ao controle de versão.
 ------------------------------------------------------------------------
