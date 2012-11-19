@@ -3,7 +3,7 @@ codeigniter_pt-br
 
 CodeIgniter - Translation Project PT-BR
 
-Projeto de tradução do CodeIgniter para Português- Brasil.
+Projeto de tradução do Guia do Usuário do CodeIgniter para Português do Brasil.
 
 
 
